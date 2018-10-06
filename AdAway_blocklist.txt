@@ -1,10 +1,6 @@
-# AdAway blocklist by kikke
+# AdAway blocklist
 # Blocking mobile ad providers and some analytics providers
 # 
-# License:
-# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
-#
-#
 
 127.0.0.1  localhost
 ::1  localhost
