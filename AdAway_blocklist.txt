@@ -5799,5 +5799,10 @@
 127.0.0.1 px.moatadas.com
 127.0.0.1 cdn.jwplayer.com
 127.0.0.1 assets-jpcust.jwpsrv.com
+127.0.0.1 mqtt-mini.facebook.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 external-mia3-2.xx.fbcdn.net
+127.0.0.1 edge-mqtt.facebook.com
+127.0.0.1 scontent-mia3-2.xx.fbcdn.net
 
 # End
