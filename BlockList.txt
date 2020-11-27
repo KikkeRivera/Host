@@ -1,4 +1,4 @@
-# AdAway blocklist
+# Blocklist
 # Blocking mobile Ads providers and some analytics providers
 # 
 
