@@ -1,2 +1,3 @@
-# Host
-Host para AdAway
+# Hosts
+
+Blacklist para AdAway
