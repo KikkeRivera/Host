@@ -8698,11 +8698,30 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 videos-f.jwpsrv.com
 127.0.0.1 sb.scorecardresearch.com
-127.0.0.1 jwpltx.com
+127.0.0.1 jads.trafficjunky.net
 127.0.0.1 collector-pxszbkva5m.perimeterx.net
 127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 jwplx.com
 127.0.0.1 px.moatadas.com
 127.0.0.1 cdn.jwplayer.com
 127.0.0.1 assets-jpcust.jwpsrv.com
+127.0.0.1 api.revenuecat.com
+127.0.0.1 bam-sdk-configs.bamgrid.com
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 dmcdn.net
+127.0.0.1 fleshmarketer.com
+127.0.0.1 jsc.adgage.es
+127.0.0.1 s2.dmcdn.net
+127.0.0.1 braze.com
+127.0.0.1 richaudience.com
+127.0.0.1 telemetry.dailymotion.com
+127.0.0.1 trafficjunky.net
+127.0.0.1 bamgrid.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 2020mustang.com
+127.0.0.1 livehdcams.com
+127.0.0.1 adtng.com
+127.0.0.1 static.trafficjunky.com
+
+
 # End
